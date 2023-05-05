@@ -4,7 +4,7 @@
 <div align="left">
   </br>
   <div align="left">
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodgama&layout=compact&langs_count=7&theme=panda"/>
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/?username=rodgama&theme=dracula&count_private=true&show_icons=true"/>
     </div>
 </div>
 </br>
