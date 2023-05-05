@@ -1,10 +1,9 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=rodgama)
 
-
-<div align="center">
-  ![](https://komarev.com/ghpvc/?username=rodgama)
+<div align="left">
   </br>
-  <div align="center">
+  <div align="left">
     <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodgama&layout=compact&langs_count=7&theme=panda"/>
     </div>
 </div>
